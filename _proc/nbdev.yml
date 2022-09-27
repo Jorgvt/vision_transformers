@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vision_transformers"
+  site-url: "https://Jorgvt.github.io/vision_transformers"
+  description: "Implementation of Vision Transformers."
+  repo-branch: main
+  repo-url: "https://github.com/Jorgvt/vision_transformers"
